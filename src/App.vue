@@ -5,7 +5,7 @@ import Nav from "./components/Nav.vue";
 
 <template>
   <Nav />
-  <div>
+  <div class="container px-3">
     <RouterView />
   </div>
 </template>
